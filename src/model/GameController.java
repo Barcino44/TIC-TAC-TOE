@@ -11,7 +11,7 @@ public class GameController {
 
  	public GameController(String name){
  		matriz= new String[ROWS_SIZE][COLUMNS_SIZE];
- 		players=new Player[PLAYERS_SIZE];m
+ 		players=new Player[PLAYERS_SIZE];
  		this.turn=2;
  		this.counter=0;
 
